@@ -1,7 +1,7 @@
 # Form Builder API
 The Form Builder API is used as the backend for the app that enables users to create any type of form and digitize the data collection process.
 
-> Note: This API is already integrate with a database (MongoDB). To successfully run the app you need to run your own MongoDB Database.
+> Note: This API is already integrate with a database (MongoDB). To successfully run the app you need to spin up your own MongoDB Database.
 
 ## Getting started and run the app
 
